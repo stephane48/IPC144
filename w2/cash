@@ -1,0 +1,39 @@
+/* Stephane Kamdem Kamguia        *
+ * 135736189                      *
+ * skamdem-kamguia@myseneca.ca    *
+ * IPC144NPP                      *
+ **********************************/
+#define _CRT_DEFINE_NO_WARNINGS
+
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	double amount;
+	int loonie;
+	double balance;
+	int x,t,m,p;
+	double y,a;
+	
+
+
+	printf("Please enter the amount to be paid: $"); //enter the amount
+	scanf("%lf", &amount);
+	loonie = (int)amount;              //casting the amount for displaying the integer value
+	x = amount * 100;                 //multiply by 100 to get a big number
+	y = x % 100;                   //take the remainder
+	balance = y / 100;             // divise by 100 to get the first balance owing
+
+
+	t = balance * 100;   //multiply the first balance owing by 100
+	m = t % 25;      //take the renainder
+	a = (double)m / 100;     //cast the previous remainder for getting the second balance owing
+
+
+	p = t / 25;  //getting the quaters (we should not cast because we need the integer value)
+
+	printf("Loonies required: %d, balance owing $%.2lf\n", loonie, balance);
+	printf("Quarters required: %d, balance owing $%.2lf\n", p, a);
+
+	return 0;
+}

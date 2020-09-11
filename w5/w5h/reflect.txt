@@ -1,0 +1,26 @@
+// Name: stephane kamdem kamguia
+
+// Student Number: 135736189
+
+// Email: skamdem-kamguia@myseneca.ca
+
+// Section: IPC144NPP
+
+// Workshop: W5_Home
+
+The at home part of workshop turned out to be really challenging. This part adds two more switch statements along with
+the previous part of the workshop. The additional two switch statements engage in update employee data and remove 
+employee data respectively. Moreover, upon inserting wrong ID, those would return error statement and prompt the
+user to enter the correct ID. Upon entering the correct ID, the program would update or remove employee data in accordance
+with the switch statements.With a view to acheiving this, the code accommodates complex nested structure of iteration construct,
+if statements, flags etc.
+
+The struct construct gives the liberty to use multipme data type contained in one single container and when the necessity
+to use those data type arises, only by calling the struct name would suffice. On the other hand, to use parallel arrays
+arrays each containg homogenous data type need to be called separately for the prgram to work. Therefore, using struct construct 
+over parallel arrays is efficient.
+
+In this workshop the Employee struct is declared in the file named emp_athome.c. However, this struct could also be declared
+globally in a header file named Employee.h. The advantage of using a header file is each instance the employee construct is 
+needed only mentioning the header file containing the employee struct would suffice as opposed to creating the construct repeatedly. 
+   

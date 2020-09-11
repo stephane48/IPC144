@@ -1,0 +1,20 @@
+// Name: stephane kamdem kamguia
+// Student Number: 135736189
+// Email: skamdem-kamguia@myseneca.ca
+// Section: IPC144NPP
+// Workshop3: at_home reflection 
+
+Using pseudo-coding let me see my overall code so I could form logic easier and quicker.
+In later stage, it helped me focus only on algorithm/syntax part while writing code. 
+Another side benefit of pseudo was that my friends and I could discuss our ideas easily,
+ without the need to look through all the variables and code line. 
+
+In my code, I used "for" and "while" loop. I didn't use do...while because I need to check 
+ the condition first be verified before executing next lines. I used "for" loop for inputing 
+days because I knew there were only 3/4 ldays. I used "while" loop for input condition because
+I did not know how much loops (or error) until user filled in right.
+
+The most difficult part was the part that we had to determine the highest and lowest temperature 
+among thoses days and also Debugging was the one that helped me to complete the code. This was a 
+rather complex problem, and there were lots of variables so I sometimes got lost and did not know where I was. 
+I remembered running debug at least 9-12 times, it was so helpful. 

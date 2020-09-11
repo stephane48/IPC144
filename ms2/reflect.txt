@@ -1,0 +1,15 @@
+1. No, I believe I’ve used the most useful way to get the users' data,
+using the techniques we learned so far. Through having structs to keep
+multiple arrays and asking the user by prompt makes the most sense to me,
+it also seems like the simplest way. 
+
+2. For example, I simply prompted the user for values and placed them in
+an array, this is very simple,and I believe efficient as if any problem 
+arises, I have separated everything into small sections, I could’ve made 
+more functions, but I didn’t want a new function for every small task.
+
+3. In a c string, everything in the quotation marks is one big string and 
+must have a null byte at the end to signify the end of the string. A character 
+array stores character values in an array, for example, char array [ ] = {H’,’i’,’\0’};. 
+If the %s is used in the mistake of the %c the program will cut when a blank 
+space is seen, acting as a null and terminating the spring.

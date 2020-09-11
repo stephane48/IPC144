@@ -1,0 +1,23 @@
+//==============================================
+// Name: stephane kamdem kamguia
+// Student Number: 135736189
+// Email:  skamdem-kamguia@myseneca.ca
+// Section:  NPP
+// Date: Nov 19,2019   
+//==============================================
+// Assignment:     2
+// Milestone:      4
+//==============================================
+
+
+1-The function getTenDigitPhone has helped us to check if the user
+ will enter the 10 digits of the phone number and then the function
+ getfindContactIndex help to be able to check if the phone number entered 
+corresponds to the one who has this address brief these two functions are 
+essential for the safety .
+
+
+2-Honestly yes because given that the output is too long, it would be better
+to create a file to save all these data, as it would be much more readable 
+and comprehensible
+

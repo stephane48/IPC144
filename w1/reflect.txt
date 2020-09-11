@@ -1,0 +1,8 @@
+Stephane Kamdem Kamguia
+135736189
+Skamdem-kamguia@myseneca.ca
+IPC144NPP
+
+Throughout this workshop 1, I encountered a lot of difficulties but those difficulties
+help me to understand how the command "printf" works and how do we have to use. Moreover,
+i also learn the purpose of the libraries in a program.

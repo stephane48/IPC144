@@ -1,0 +1,22 @@
+/* Stephane Kamdem Kamguia        *
+ * 135736189                      *
+ * skamdem-kamguia@myseneca.ca    *
+ * IPC144NPP                      *
+ **********************************/
+
+
+
+
+The tables in this program must be declared to contain 10 elements, because we will have a maximum of 10 integers.
+We have 1 integer for each day for up to 10 days.
+
+The advantage of arrays is that we can keep multiple values ??under a single variable, but the disadvantage is that 
+we need to know the size of the arrays in advance. The tables also have a fixed size, which means that we can not 
+increase or decrease the allocated memory.
+
+It is preferable to initialize the iterations to zero because the values ??stored in an array start from zero, so if 
+we want to printf the first stored value in the array we must start with zero, that is to say:
+for (i = 0; i <4; i ++)
+printf ("grade1", grade [i]);
+in this case the machine will go into the array take the first value instead 0 number and display.
+so that's why it's best to start at zero.

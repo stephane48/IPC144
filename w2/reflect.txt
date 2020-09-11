@@ -1,0 +1,18 @@
+Stephane Kamdem Kamguia
+135736189
+Skamdem-kamguia@myseneca.ca
+IPC144NPP
+
+Throughout this workshop 2, I encountered a lot of difficulties because of 
+these I also learned a lot, and all this allowed me to deepen my knowledge.
+
+At first, what was interesting for me was the different mathematical operations 
+that had to be performed at each time to determine the different values 
+(quarters, dimes, GST, and so on), and in the end it was the most difficult for me because 
+I did not know about quarters, dimes, nickels and pennies because I had never heard that in the past.
+Secondly, the conversion of floating-point values into integers still called casting is often recommended 
+because it allows us to have the exact values or the entire part without any arithmetic operation; in other words, it makes things easier.
+Subsequently, when using the operation division, it evaluates only the truncated integer result; 
+that is, the whole number without remainder, while the module operator evaluates only the rest.
+
+Finally, the workshops for me is a way for me to practice what we do in class and it allows me to practice better.

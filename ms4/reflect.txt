@@ -1,0 +1,23 @@
+// Student Number: 135736189
+// Email: skamdem-kamguia@myseneca.ca
+// Section: NPP
+// Date: oct 28, 2019       
+//==============================================
+// Assignment:     1
+// Milestone:      4
+//==============================================
+
+
+1.Explain briefly why you think this assignment has asked 
+you to code a structure, Contact, which contains three other 
+structures as data members.
+In all professional circles, clear and organized
+The code will allow you to keep your work. Ask us to code a 
+structure, Contact, which contains three other structures as data members, 
+is one of many methods that help us easily organize and track our code.
+
+2.An explanation of why it would be poor design to pass a pointer to enter 
+Contact as an argument in the getName, getAddress, and getNumbers functions.
+It would be ill-conceived to pass a pointer to enter Contact as an argument 
+in the getName, getAddress and getNumbers functions because it would be subject 
+to two pointers in a structure instead of a single pointer

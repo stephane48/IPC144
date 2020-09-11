@@ -1,0 +1,16 @@
+﻿'w4home.exe' (Win32): Loaded 'A:\w4home\Debug\w4home.exe'. Symbols loaded.
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Program Files\AVG\Antivirus\x86\aswhook.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2340 has exited with code 0 (0x0).
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'w4home.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The program '[15776] w4home.exe' has exited with code 0 (0x0).

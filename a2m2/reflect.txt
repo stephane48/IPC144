@@ -1,0 +1,19 @@
+//==============================================
+// Name:stephane kamdem kamguia
+// Student Number: 135736189
+// Email: skamdem-kamguia@myseneca.ca
+// Section: NPP
+// Date: nov 15, 2019          
+//==============================================
+// Assignment:     2
+// Milestone:      2
+//==============================================
+
+A function is a group of instructions that perform a task together. 
+Each C program has at least one function, which is main (), and all 
+the most trivial programs can define additional functions.
+
+"helper" functions are in a different way because it helps us structure 
+the code and explain it better to someone. And these functions are not 
+defined in the contacts module just to reduce the length of the code and
+make the code more readable, structure and efficient.
